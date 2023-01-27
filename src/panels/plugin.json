@@ -1,0 +1,9 @@
+{
+  "type": "panel",
+  "name": "PMM panel",
+  "id": "pmm-panel",
+  "dependencies": {
+    "grafanaDependency": ">=7.x.x",
+    "plugins": []
+  }
+}
